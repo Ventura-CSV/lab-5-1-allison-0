@@ -7,10 +7,7 @@ def getsum(v1, v2):
     return total
 
 def printval(v1, v2, total):
-    # ******************************
-    # Make your Code
-    # ******************************
-
+    print (v1, v2, total)
 
 def main():
     userval1 = getinput()
