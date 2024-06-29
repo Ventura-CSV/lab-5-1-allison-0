@@ -1,7 +1,6 @@
 def getinput():
-    # ******************************
-    # Make your Code
-    # ******************************
+    num = int(input())
+    return num
 
 
 def getsum(v1, v2):
